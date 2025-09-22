@@ -1,4 +1,4 @@
-This is a full-stack, AI-powered blogging platform designed to help users create, manage, and monetize their content efficiently. It features an intuitive Markdown-based content editor and integrates with the OpenAI API for intelligent content suggestions. The platform is built with a modern MERN stack. 🤖
+This is a full-stack, AI-powered blogging platform designed to help users create, manage, and monetize their content efficiently. It features an intuitive Markdown-based content editor and integrates with the OpenAI API for intelligent content suggestions. The platform is built with a modern MERN stack. 
 
 Features
 Markdown Editor: A simple yet powerful editor for writing and formatting blog posts using Markdown syntax.
